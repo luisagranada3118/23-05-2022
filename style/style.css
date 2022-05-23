@@ -1,0 +1,44 @@
+.titulo{
+     font-size: 50px;
+     background-color: aqua;
+     margin-right: 20px;
+     margin-left: 40px;
+}
+.titulo2{
+    font-size: 50px;
+     background-color: aqua;
+     margin-right: 20px;
+     margin-left: 40px;
+}
+.sagitario{
+    font-size: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+
+}
+.m87{
+    font-size: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.titulo3{
+    font-size: 50px;
+    background-color: aqua;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.diferencias{
+    font-size: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.mn{
+    font-size: 30px;
+}
+.img{
+    margin-left: 600px;
+    width: 20%;
+}
+.video{
+    width: 30%;
+}
